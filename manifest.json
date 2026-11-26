@@ -4,8 +4,8 @@
   "display": "standalone",
   "start_url": "./index.html",
   "lang": "en-US",
-  "name": "maqeena",
-  "short_name": "maqeena",
+  "name": "Maqeena",
+  "short_name": "Maqeena",
   "description": "Maqeena is an educational app designed to help people understand Indigenous peoples, their histories, cultures, traditions, knowledge, struggles, and ongoing efforts to preserve their heritage and sovereignty.",
   "icons": [
     {
